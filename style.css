@@ -1,0 +1,20 @@
+body{
+    background-image: url("http://3.bp.blogspot.com/-tEmG9nNKR9c/WIc6xAuaTkI/AAAAAAAACGs/QBOXUyewTmUDYeh_B7qhvmUgx-RUWQv_wCHM/s1600/landscape-wallpaper-fantasy-landscape-and-dark-fantasy-on-pinterest.jpg");
+    background-color: aqua; 
+    background-repeat: no-repeat;    
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+    text-align: center
+}
+
+iframe{
+    width: 30%;
+    height: 30%;
+}
+
+div{
+    color: rgb(250, 161, 60);
+    font-family: 'Charmonman', cursive;
+    font-size: 50px
+}
